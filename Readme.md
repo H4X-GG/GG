@@ -1,6 +1,6 @@
 ![THIS SCRIPT WAS MADE BY PYTHON](https://www.python.org/static/img/python-logo.png)
 
-<span style="color:green">FREE TOOLS</span>
+<span style="color:red">FREE TOOLS</span>
 
 `rm -rf GG`
 
