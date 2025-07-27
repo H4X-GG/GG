@@ -15,7 +15,7 @@
 
 `python GG.py`
 
-[CONTACT ME IN FACEBOOK](https://www.facebook.com/h4x.gg.git)
+[CONTACT ME IN FACEBOOK](https://www.facebook.com/mehu.mehu.mehu.99)
 
 [JOIN MY FACEBOOK GROUP](https://facebook.com/groups/7202024073196436/)
 
