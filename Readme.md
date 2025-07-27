@@ -17,7 +17,7 @@
 
 [CONTACT ME IN FACEBOOK](https://www.facebook.com/mehu.mehu.mehu.99)
 
-[JOIN MY FACEBOOK GROUP](https://facebook.com/groups/7202024073196436/)
+[JOIN MY TELEGRAM GROUP](https://t.me/bangi0009)
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=H4X-GG)
 
